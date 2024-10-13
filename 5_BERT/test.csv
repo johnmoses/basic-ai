@@ -1,0 +1,251 @@
+text,intent
+can you see if i can get a higher limit on my discovery card,credit_limit_change
+can my credit limit on my discovery card go up,credit_limit_change
+may i have a higher limit on my mastercard,credit_limit_change
+can i get a higher credit limit on my amex card,credit_limit_change
+is there a way to get a larger limit on my bank of america card,credit_limit_change
+what's the possibility of getting a credit limit increase on my visa,credit_limit_change
+is it possible to increase my credit limit to 1000 dollars,credit_limit_change
+is it possible to have a higher limit on my visa,credit_limit_change
+can i get a higher limit on my american express card,credit_limit_change
+i'd like to increase my credit spending limit to 500 dollars,credit_limit_change
+am i allowed to increase the credit limit on my mastercard,credit_limit_change
+is it possible to get a credit limit increase to 3000,credit_limit_change
+i'd like to increase my credit limit up to four thousand,credit_limit_change
+can i increase my credit limit from 1000 to 2000 please,credit_limit_change
+is it possible to increase the limit on my visa,credit_limit_change
+should i increase my credit limitfor cardx,credit_limit_change
+can i have my credit limit changed,credit_limit_change
+credit limit change,credit_limit_change
+please change credit,credit_limit_change
+please change the credit limit,credit_limit_change
+i want my credit limit changed,credit_limit_change
+can i get a credit increase for my visa,credit_limit_change
+can i get a higher limit on my visa card,credit_limit_change
+can my limit be increased for my visa,credit_limit_change
+can you increase how much i can spend on my visa,credit_limit_change
+will you allow more spending on my visa,credit_limit_change
+is it possible to increase my visa card limit,credit_limit_change
+is the limit on my visa card able to be increased,credit_limit_change
+is there a way to increase the limit on my visa card,credit_limit_change
+am i able to increase the limit on my visa card,credit_limit_change
+how do i increase the limit on my visa card,credit_limit_change
+can you increase my credit limit,credit_limit_change
+can you change my credit limit,credit_limit_change
+can you change the limit on my credit please,credit_limit_change
+i need to increase my credit limit,credit_limit_change
+"change my credit limit, please",credit_limit_change
+help me change my credit limit,credit_limit_change
+what do i do to change my credit limit,credit_limit_change
+get my credit limit changed,credit_limit_change
+i want to change my credit limit,credit_limit_change
+please help me increase my mastercard credit card limit,credit_limit_change
+"i need to increase my credit limit for my visa credit card, can you assist me",credit_limit_change
+"i would like to increase my bank of america credit limit, can you help me",credit_limit_change
+is there a way to increase the credit limit on my american express card,credit_limit_change
+how can i increase my aa credit card limit,credit_limit_change
+would it be possible to increase my chase card's limit,credit_limit_change
+how do i raise the limit on my visa card,credit_limit_change
+how would i raise my credit spending by 250 dollars,credit_limit_change
+can i raise the limit to 500 dollars,credit_limit_change
+can i get a credit limit raise on my credit card,credit_limit_change
+how would i raise my credit spending by 2500 dollars,credit_limit_change
+would i be able to increase my available credit by 600 dollars,credit_limit_change
+i need a credit raise by 1000 dollars,credit_limit_change
+is there a way to raise my mastercard credit,credit_limit_change
+how would i go about raising my gold card limit,credit_limit_change
+"please increase my credit limit to $9,000",credit_limit_change
+how do i request a credit limit increase on my visa,credit_limit_change
+"is it possible to get a new credit limit of $10,000",credit_limit_change
+is it possible to increase the credit limit on my mastercard,credit_limit_change
+"can you increase my credit limit to $7,500",credit_limit_change
+"can i raise my credit limit to $12,000",credit_limit_change
+tell me if i can get a higher limit on my visa,credit_limit_change
+"can i get my credit limit increased to $15,000",credit_limit_change
+how do increase the credit limit on my visa card,credit_limit_change
+can i get a higher credit limit on my american express,credit_limit_change
+can i increase the credit limit for my usaa card,credit_limit_change
+can i increase the credit limit on my kohls card,credit_limit_change
+can i increase the credit limit for my navy federal card,credit_limit_change
+can i increase my credit limit to 500 dollars,credit_limit_change
+can i increase the credit limit on my target card,credit_limit_change
+can i increase the credit limit for my bank of the west card,credit_limit_change
+can i increase my credit limit to 700 dollars,credit_limit_change
+can i increase the credit limit on my maurices card,credit_limit_change
+can i increase the credit limit on my old navy card,credit_limit_change
+can i increase my credit limit to 800 dollars,credit_limit_change
+can i increase my credit limit to 1200 dollars,credit_limit_change
+can i increase the credit limit for my chase card,credit_limit_change
+can i increase the credit limit for my bank of america card,credit_limit_change
+can i increase my credit limit to 1100 dollars,credit_limit_change
+can i increase the credit limit on my walmart card,credit_limit_change
+can you increase my credit limit to one thousand dollars,credit_limit_change
+can my credit limit be increased to one thousand dollars,credit_limit_change
+tell me if my credit limit can be increased to one thousand dollars,credit_limit_change
+please see if you can increase my credit limit to one thousand dollars,credit_limit_change
+"i want to increase my credit limit to $1000, if possible",credit_limit_change
+can i increase thencrdeit limit for my chase visa card,credit_limit_change
+can i increase the credit limit for my american express card,credit_limit_change
+can i increase the credit limit for my western union credit card,credit_limit_change
+can i increase the credit limit for my wells fargo credit card,credit_limit_change
+can i increase the credit limit for my visa platinum card,credit_limit_change
+is it possible to increase the credit limit for my discover card,credit_limit_change
+is it possible to raise the credit limit for my discover card,credit_limit_change
+can i raise the credit limit for my discover card,credit_limit_change
+will they let me up my credit limit to $1000,credit_limit_change
+will i be able to increase my credit limit to $1000,credit_limit_change
+can i up my credit limit to $1000,credit_limit_change
+am i allowed to increase my credit limit to $1000,credit_limit_change
+is it possible to increase my credit limit to $1000,credit_limit_change
+can i get more money on my discover card,credit_limit_change
+help increasing credit on discover card,credit_limit_change
+the bill for water and electricity is how much,bill_balance
+what's my bill for water and electricity,bill_balance
+"for my water and electricity, how much is the bill",bill_balance
+how much is the bill for my water and electricity,bill_balance
+my water and electricity bill is how much,bill_balance
+what is the total amount that i owe to sony and verizon,bill_balance
+please tell me how much i owe sprint and how much i owe hsn,bill_balance
+tell me how much my verizon and comcast bill come to together,bill_balance
+how much in total do i need to pay cox and at&t,bill_balance
+please let me know how much my bills for comcast and sprint total,bill_balance
+what do my bills add up to,bill_balance
+how much do i owe in bills,bill_balance
+what's the balance on my bills,bill_balance
+read my bill balances,bill_balance
+how much are my bills,bill_balance
+find out what my water bill costs please,bill_balance
+how much is my electricity bill costing me,bill_balance
+find out the cost of my bill payments,bill_balance
+let me know the amounts i owe for my utilities and tuition bills,bill_balance
+how much money do i need to spend on bill payments,bill_balance
+can you tell me what i owe for this month's phone bill,bill_balance
+tell me the sum total of my water and electricity bills,bill_balance
+can you tell me the total cost of my bills please,bill_balance
+what is the total amount due on my electricity bill,bill_balance
+what am i being charged for my water bill,bill_balance
+tell me how much my cable bill is,bill_balance
+what is the total for my utilities bill this month,bill_balance
+how much do i owe for my gas and phone bills,bill_balance
+tell me what is owed for my water and gas bills,bill_balance
+i need to know the amounts due for my utilities and cable bills,bill_balance
+let me know how much money i will need to spend on paying bills,bill_balance
+please let me know how much my gas bill is,bill_balance
+i need to know the cost of the cable bill,bill_balance
+how much in total will i be paying for bills,bill_balance
+what do i owe for my utilities bill,bill_balance
+please give me the full balance on my water bill,bill_balance
+how much is the total due for my pgw gas bill,bill_balance
+what's the amount due on my latest sprint bill,bill_balance
+"i need the dollar amount due on my verizon bill, please",bill_balance
+can you tell me what the amount on my directv bill is,bill_balance
+remind me of the invoice total for my plumbing bill,bill_balance
+tell me what amount i have to pay for my directv bill please,bill_balance
+i need to know my bill total for my verizon payment due this month,bill_balance
+please find the current balance on my con edison bill,bill_balance
+what's the balance on my sprint account,bill_balance
+how much is my xfinity bill this month,bill_balance
+what's the cost of my dte bill plus my electricity bill,bill_balance
+my dte bill is how much,bill_balance
+what is my dte bill this month,bill_balance
+how much are my electric and heating bills,bill_balance
+my dte and water bills are how much,bill_balance
+my water bill is how much this month,bill_balance
+how much is my electric bill for this month,bill_balance
+how much are my xfinity and dte bills,bill_balance
+how much are my cable and water bills,bill_balance
+how much do i have to pay on my bills,bill_balance
+can you check the balance on the water bill,bill_balance
+how much do i have to pay for my cable bill,bill_balance
+how much do i owe on my cable bill,bill_balance
+can you find out how much i owe on my bills,bill_balance
+can you check and see how much i owe on my cable bill,bill_balance
+do you know how much i owe on my cable bill,bill_balance
+how much do i need to pay on my bills,bill_balance
+can you tell me how much i owe on my cable bill,bill_balance
+how much is my comcast bill,bill_balance
+what is the amount on my comcast bill,bill_balance
+what is the my comcast bill this month,bill_balance
+what do i owe bill wise,bill_balance
+do i have any due bills and how much,bill_balance
+do i still owe any bills,bill_balance
+how much do i have to pay for my bills this month,bill_balance
+do i owe any bills,bill_balance
+what's the final amount of all the money i need to pay in bills this month,bill_balance
+add all my bills for this month and tell me the total,bill_balance
+what's the sum of all i owe on bills this month,bill_balance
+what's the total i owe on all my bills,bill_balance
+what's the water bill,bill_balance
+how much are all my bills combined,bill_balance
+what's my mortgage payment going to be this month,bill_balance
+what do i owe on the car this month,bill_balance
+how much are utilities,bill_balance
+how much is my gas bill,bill_balance
+how much is my internet bill,bill_balance
+how much is my cable bill,bill_balance
+how much is my rent,bill_balance
+how much is my cable bill for,bill_balance
+how much is my current water bill for,bill_balance
+how much is my electric bill for,bill_balance
+how much is my water bill for,bill_balance
+how much is my current cable bill for,bill_balance
+what is the amount on my water bill,bill_balance
+how much do i have on credit card bill,bill_balance
+what is the balance on my bills,bill_balance
+what is my domain name bill,bill_balance
+how much is my groceries and gas bill,bill_balance
+what is the cost of water and electric this month,bill_balance
+what is the amount of balance i have to pay on my bill,bill_balance
+how much do i owe on bills,bill_balance
+how much on bills to i have to pay,bill_balance
+what is my email subscriction services bill,bill_balance
+what is the process to get some more checkbooks mailed to me,order_checks
+how do i get more checkbooks mailed to me,order_checks
+if i need more checkbooks maild to me what should i do,order_checks
+can you mail more checkbooks to me please,order_checks
+can you explain to me how to get some more checkbooks mailed to me,order_checks
+can i get more checks,order_checks
+order more checks,order_checks
+i don't have any checks left; please order some,order_checks
+i need new checks,order_checks
+"can you order me more checks, please",order_checks
+i need more checkbooks for my chase account,order_checks
+i'm in need of checks for bank of america,order_checks
+can you order me more checks at wells fargo,order_checks
+my key bank checks have run out,order_checks
+i don't have anymore checks for chase and need some,order_checks
+i would like to request that more checkbooks be mailed to me,order_checks
+i would like to order additional checkbooks to me mailed to my home address,order_checks
+would it be possible for you to mail me new checkbooks,order_checks
+i would like to place an order for more checkbooks to me mailed to me,order_checks
+could you please mail me some checkbooks,order_checks
+how can i order some more checks for my checking account,order_checks
+can you show me how to order some more checks for my chase account,order_checks
+please show me how to order more checks for my savings account,order_checks
+i'd like to order more checks for my savings account,order_checks
+i need to order more checks for my savings account,order_checks
+"if i can, i'd like to get some more checkbooks mailed to me",order_checks
+can i get some more of those new checkbooks mailed to me,order_checks
+can some more checkbooks get mailed to me,order_checks
+can i please get some more checkbooks mailed to me,order_checks
+"i'd like to get some more checkbooks mailed to me, if i can",order_checks
+i don't have checks so can i order some new ones,order_checks
+i really wanna get some more checkbooks mailed to me,order_checks
+i wanna order some more checks for my checking account,order_checks
+i wanna get some new checks cause i ran out of them,order_checks
+i would like to get some more checkbooks mailed to me,order_checks
+i need to get some more checkbooks mailed to me,order_checks
+i'd love to order some more checks for my checking account,order_checks
+i feel i would like to get some more checkbooks mailed to me,order_checks
+"i don't have checks, so can i get new ones",order_checks
+i must order some more checks for my checking account,order_checks
+i do need to get some more checkbooks mailed to me,order_checks
+i really need to order some more checks for my savings account,order_checks
+i want to order some more checks for my savings account,order_checks
+"i recently ran out of checks, so i wanna get some new ones",order_checks
+"i need to order checks, so can i order some new ones",order_checks
+i need more checkbooks delivered to me by mail,order_checks
+i need to order more checkbooks by mail,order_checks
+how can i order more checkbooks by mail,order_checks
+can you show me how to get more checkbooks by mail,order_checks
+what is the process for ordering new checks,order_checks
